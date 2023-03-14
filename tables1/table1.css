@@ -1,0 +1,15 @@
+.one{
+    text-align: center;
+    background-color:red;
+}
+
+
+ .img2, .img3, .img4{
+    width: 50%;
+    height: 35%;
+}
+
+.img1{
+    width: 90%;
+    height: 90%;
+}
